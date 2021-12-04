@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Chang</h1>
-<h3 align="center">Taiwanese working on Shanghai SAP labs be role of SRE Engineer</h3>
+<h3 align="center">Nice to meet you</h3>
 
 - 📫 How to reach me **cqe5914678@gmail.com**
 
